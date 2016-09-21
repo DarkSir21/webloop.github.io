@@ -1,0 +1,38 @@
+[
+	{
+		"id": 0,
+		"img": "img/ayurveda.png",
+		"name": "Интернет магазин косметики из Индии",
+		"url": "http://ayurveda-kemerovo.ru",
+		"urlName": "ayurveda-kemerovo.ru",
+		"cms": "Wordpress",
+		"tech": "PHP5, HTML5, CSS3",
+		"money": 3,
+		"desc": "Работа была выполнена в кратчайшие сроки. CMS была настроена на быстрое редактирование необходимых функций сайта.",
+		"feedback": ""
+	},
+	{
+		"id": 1,
+		"img": "img/maket.png",
+		"name": "Пример верстки макета",
+		"url": "http://maket.web-loop.ru",
+		"urlName": "maket.web-loop.ru",
+		"cms": "Отсутвует",
+		"tech": "HTML5, CSS3, Bootstap Grid",
+		"money": 0,
+		"desc": "Пример верстки сайта для использования как сайт портфолио или лэндинга компании",
+		"feedback": ""
+	},
+	{
+		"id": 2,
+		"img": "img/rem-kem.ru.png",
+		"name": "Сайт оказания услуг по ремонту квартир",
+		"url": "http://rem-kem.ru",
+		"urlName": "rem-kem.ru",
+		"cms": "Wordpress",
+		"tech": "PHP5, HTML5, CSS3",
+		"money": 4,
+		"desc": "Сайт адаптирован под будущее расширения из лэндинга в полноценный корпоративный сайт. Также была проведена работа по ускорению загрузки страниц. На момент сдачи Google Page Speed оценивал сайт на 94 из 100 баллов",
+		"feedback": ""
+	}
+]

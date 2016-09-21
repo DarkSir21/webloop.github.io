@@ -1,0 +1,23 @@
+[
+	{
+		"id": 0,
+		"icon": "fa-phone",
+		"name": "Телефон",
+		"link": "tel:89059663640",
+		"linkName": "8-905-966-36-40"
+	},
+	{
+		"id": 1,
+		"icon": "fa-envelope",
+		"name": "Email",
+		"link": "mailto:info@web-loop.ru",
+		"linkName": "info@web-loop.ru"
+	},
+	{
+		"id": 2,
+		"icon": "fa-vk",
+		"name": "Вконтакте",
+		"link": "https://vk.com/avakymov",
+		"linkName": "vk.com/avakymov"
+	}
+]
